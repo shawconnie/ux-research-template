@@ -1,4 +1,4 @@
-## Contribution Guidelines
+# Contribution Guidelines
 
 ## I welcome contributions to this repository! Please ensure you follow guidelines:
 
