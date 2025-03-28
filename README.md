@@ -50,8 +50,8 @@ Welcome to the UX Research Template repository. This repository is designed to h
 
 ## File Structure
 
-```plaintext
-.
+```plain text
+
 ├── planning
 │   ├── objectives.md
 │   ├── methodology.md
