@@ -1,4 +1,6 @@
-## We welcome contributions to this repository! Please ensure you follow guidelines:
+## Contribution Guidelines
+
+## I welcome contributions to this repository! Please ensure you follow guidelines:
 
 - File naming conventions: Use descriptive names
 - Maintain organized structure
